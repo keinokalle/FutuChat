@@ -1,2 +1,3 @@
 # FutuChat
-Prototype of an AI Agent for Finland's decision makers to empower capabilities for analysing, interpreting, and leveraging scenarios and other resources from foresight reports.
+Prototype of an AI Agent for Finland's decision makers to empower capabilities for analysing, interpreting, and leveraging scenarios and other resources from foresight reports. \n\n
+AI agents and real world course project in collaboration with Sitra.
